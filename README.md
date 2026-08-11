@@ -1,7 +1,7 @@
 # cloud-computing-course's Repository
 
 ## Course Information
-- **Name:** [Jenny Rose P. RemillO]
+- **Name:** [Jenny Rose P. Remillo]
 - **Course & Section:** [BSIT 4-L]
 
 ## Description
